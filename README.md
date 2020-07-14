@@ -1,6 +1,7 @@
 # Donut Alert with Raspberry Pi: 
 
 ## Appeared on Medium: https://medium.com/@akimi.mimi.yano/building-a-donut-alert-system-with-raspberry-pi-da47b3f8ce36
+## Demo video: https://www.youtube.com/watch?v=5vqkS9ZKlRo
 
 Real-time face recognition and text notification system using Raspberry Pi and Intel NCS 2.
 
